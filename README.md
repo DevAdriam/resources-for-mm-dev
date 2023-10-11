@@ -92,6 +92,7 @@
 -   [React - On Point](https://eimaung.com/react/) - Ei Maung
 -   [Laravel - On Point](https://eimaung.com/laravel/) - Ei Maung
 -   [PHP - On Point](https://eimaung.com/php/) - Ei Maung
+-   [Ubuntu - For You](https://eimaung.com/ubuntu-for-you/) - Ei Maung
 
 ##### YouTube
 
